@@ -13,6 +13,8 @@
 
 ### [Briefly about the game](https://play.google.com/store/apps/details?id=com.gmail.goodfreewalk.aaa)
 
+### [Link To Google Play](https://mihin-s.github.io/AAA/)
+
 Contacts
 
 e-mail: ([goodfreewalk@gmail.com](https://goodfreewalk@gmail.com))
