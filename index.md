@@ -8,8 +8,10 @@
 8. We do not ask for location information via our mobile application.
 9. We do not send newsletters to e-mail.
 
-## Required permissions
+# Required permissions
 1. Access to the camera device is used only to draw a background inside the game.
+
+### ([Briefly about the game](https://play.google.com/store/apps/details?id=com.gmail.goodfreewalk.aaa))
 
 Contacts
 
